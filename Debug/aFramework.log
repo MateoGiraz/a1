@@ -1,0 +1,55 @@
+﻿  ColaArray.cpp
+  ColaIntImp.cpp
+  ColaPrioridadIntImp.cpp
+  ConductorPrueba.cpp
+  ConductorPruebaObl2.cpp
+  Defensa.cpp
+  DiccionarioIntImp.cpp
+C:\Users\Admin\Music\2022s1_Ejercicios2\DiccionarioIntImp.cpp(49,20): warning C4018: '<': no coinciden signed/unsigned
+  Ejercicios.cpp
+  EstadisticaPrueba.cpp
+  FuncAux.cpp
+  FuncAuxTAD.cpp
+  FuncAux_s.cpp
+  ListaOrdIntImp.cpp
+  ListaOrdIntImp2.cpp
+  ListaPosIntImp.cpp
+C:\Users\Admin\Music\2022s1_Ejercicios2\ListaPosIntImp.cpp(30,10): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\Admin\Music\2022s1_Ejercicios2\ListaPosIntImp.cpp(34,39): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\Admin\Music\2022s1_Ejercicios2\ListaPosIntImp.cpp(46,10): warning C4018: '<': no coinciden signed/unsigned
+  main.cpp
+  ManejadorArchivos.cpp
+  ManejadorImpresionPrueba.cpp
+  ManejadorSalidaPrueba.cpp
+  MultisetIntImp.cpp
+  Generando código...
+C:\Users\Admin\Music\2022s1_Ejercicios2\ListaOrdIntImp2.cpp(224): warning C4715: 'minimo': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Admin\Music\2022s1_Ejercicios2\DiccionarioIntImp.cpp(88): warning C4715: 'elemento': no todas las rutas de acceso de control devuelven un valor
+  Compilando...
+  PilaIntImp.cpp
+  Prueba.cpp
+  PruebasAuxDefensa.cpp
+  PruebasAuxEntrega.cpp
+  PruebasColaInt.cpp
+  PruebasColaPrioridadInt.cpp
+  PruebasCorreccion.cpp
+  PruebasDefensa.cpp
+  PruebasDiccionarioInt.cpp
+  PruebasEjemploDeUsoEntrega.cpp
+  PruebasListaOrdInt.cpp
+  PruebasListaPosInt.cpp
+  PruebasMultisetInt.cpp
+  PruebasPilaInt.cpp
+  PruebasPropias.cpp
+  PruebasSetInt.cpp
+  PruebasTablaIntInt.cpp
+  PruebasTablaIntString.cpp
+  SetIntImp.cpp
+  TablaIntIntImp.cpp
+  Generando código...
+  Compilando...
+  TablaIntStringImp.cpp
+C:\Users\Admin\Music\2022s1_Ejercicios2\TablaIntStringImp.cpp(107,20): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+C:\Users\Admin\Music\2022s1_Ejercicios2\TablaIntStringImp.cpp(193): warning C4715: 'elemento': no todas las rutas de acceso de control devuelven un valor
+  aFramework.vcxproj -> C:\Users\Admin\Music\2022s1_Ejercicios2\Debug\aFramework.exe
